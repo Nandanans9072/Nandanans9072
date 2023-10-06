@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UI/UX Designer
 --------------
 
-i m a ui/ux designer. And also skilled in front-end web development and Python programming. Currently i m learning about Cyber security and Ethical Hacking
+i m a ui/ux designer. And also skilled in front-end web development,c++ and Python programming. Currently i m learning about Cyber security and Ethical Hacking
 
 * ✉️  You can contact me at [nsnandana812@gmail.com](mailto:nsnandana812@gmail.com)
 
