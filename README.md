@@ -110,11 +110,18 @@ I'm a CS engineer who builds across the full spectrum — **React frontends**, *
 
 <div align="center">
 
-![Nandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandanans9072&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=c8f542&icon_color=c8f542&text_color=e8e8f0)
+<a href="https://github.com/Nandanans9072">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandanans9072&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=c8f542&icon_color=c8f542&text_color=e8e8f0&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanans9072&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=c8f542&text_color=e8e8f0&langs_count=8" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanans9072&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=c8f542&text_color=e8e8f0&langs_count=8)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nandanans9072&theme=dark&hide_border=true&background=0a0a0f&ring=c8f542&fire=c8f542&currStreakLabel=c8f542)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Nandanans9072&theme=dark&hide_border=true&background=0d1117&ring=c8f542&fire=c8f542&currStreakLabel=c8f542&sideLabels=e8e8f0&dates=7a7a94&sideNums=c8f542)](https://github.com/Nandanans9072)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nandanans9072&color=c8f542&style=flat-square&label=Profile+Views)
 
 </div>
 
