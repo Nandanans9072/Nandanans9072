@@ -58,15 +58,6 @@ I'm a CS engineer who builds across the full spectrum — **React frontends**, *
 ---
 
 
-
-
-
----
-
-
-
----
-
 ## 📊 GitHub at a Glance
 
 <div align="center">
