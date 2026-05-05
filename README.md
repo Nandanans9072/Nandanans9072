@@ -57,52 +57,13 @@ I'm a CS engineer who builds across the full spectrum — **React frontends**, *
 
 ---
 
-## 🗂️ Repositories at a Glance
 
-### 🌐 Web Development (11 repos)
 
-| Repo | Language | Description |
-|------|----------|-------------|
-| [LabHub](https://github.com/Nandanans9072/LabHub) | JavaScript | Full-stack PR dashboard — React + Vite + Express + MySQL with auth & repo management |
-| [EMPLOYEE_LEAVE_MANAGEMENT_SYSTEM](https://github.com/Nandanans9072/EMPLOYEE_LEAVE_MANAGEMENT_SYSYTEM) | JavaScript | Leave tracking & approval system (frontend + backend split repos) |
-| [FRONT_END_REPO](https://github.com/Nandanans9072/FRONT_END_REPO) | JavaScript | React frontend for leave management app |
-| [server_side](https://github.com/Nandanans9072/server_side) | JavaScript | Node.js backend for leave management app |
-| [2d_to_3d_reactjs](https://github.com/Nandanans9072/2d_to_3d_reactjs) | CSS / React | 2D floor plan to 3D visualization in React |
-| [Portfolio_Website](https://github.com/Nandanans9072/Portfolio_Website) | HTML | Personal portfolio — live on GitHub Pages |
-| [Spotify_website](https://github.com/Nandanans9072/Spotify_website) | HTML | Spotify UI clone — live on GitHub Pages |
-| [Bus_Reservation_Site](https://github.com/Nandanans9072/Bus_Reservation_Site) | HTML | Bus reservation UI |
-| [TODO-LIST](https://github.com/Nandanans9072/TODO-LIST) | JavaScript | Todo app — live on GitHub Pages |
-| [sample_landpage](https://github.com/Nandanans9072/sample_landpage) | HTML | Sample landing page — live on GitHub Pages |
-| [Background_Animation](https://github.com/Nandanans9072/Background_Animation) | CSS | CSS background animation experiments |
+
 
 ---
 
-### 🤖 Machine Learning & AI (13 repos)
 
-| Repo | Language | Description |
-|------|----------|-------------|
-| [forgery_detection](https://github.com/Nandanans9072/forgery_detection) | Python | **Vision Transformer + ELA** based image forgery detection |
-| [Fake_Logo_Detection_Using_Pattern_Recognition](https://github.com/Nandanans9072/Fake_Logo_Detection_Using_Pattern_Recognition-) | Python | Fake logo detection using pattern recognition |
-| [WATER_QUALITY_PREDICTION_USING_RANDOM_FOREST](https://github.com/Nandanans9072/WATER_QUALITY_PREDICTION_USING_RANDOM_FORESET) | Python | Water potability prediction using Random Forest |
-| [Academic-Co-authorship-Network-Analysis](https://github.com/Nandanans9072/Academic-Co-authorship-Network-Analysis) | Python | Network/graph analysis of academic co-authorship data |
-| [Viral-Content-Spread-Simulation-using-SIR-Model](https://github.com/Nandanans9072/Viral-Content-Spread-Simulation-using-SIR-Model) | Python | SIR epidemic model applied to viral content spread simulation |
-| [MNIST-Handwritten-Digit-Recognition](https://github.com/Nandanans9072/MNIST-Handwritten-Digit-Recognition) | Jupyter | CNN-based MNIST digit recognition |
-| [DEEP_LEARNING_ASSIGNMENT](https://github.com/Nandanans9072/DEEP_LEARNING_ASSIGNMENT) | Jupyter | Deep learning coursework experiments (MIT Licensed) |
-| [meachine_learning_lab](https://github.com/Nandanans9072/meachine_learning_lab) | Jupyter | ML lab — hands-on implementations |
-| [Carspeed_classify](https://github.com/Nandanans9072/Carspeed_classify) | Jupyter | Car speed classification using Decision Trees |
-| [Decision_tree](https://github.com/Nandanans9072/Decision_tree) | Jupyter | Decision Tree builder with Gini Index from scratch |
-| [Google-Colaboratory-Basics](https://github.com/Nandanans9072/Google-Colaboratory-Basics) | Jupyter | Google Colab basics and setup |
-| [python](https://github.com/Nandanans9072/python) | Jupyter | Python fundamentals and experiments |
-
----
-
-### 📚 Learning & Reference (3 repos)
-
-| Repo | Description |
-|------|-------------|
-| [LINUX_Commands](https://github.com/Nandanans9072/LINUX_Commands) | Reference collection of important Linux commands |
-| [skills-communicate-using-markdown](https://github.com/Nandanans9072/skills-communicate-using-markdown) | GitHub Skills — Markdown practice |
-| [skills-github-pages](https://github.com/Nandanans9072/skills-github-pages) | GitHub Skills — Pages deployment |
 
 ---
 
