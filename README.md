@@ -106,33 +106,94 @@ I'm a CS engineer who builds across the full spectrum — **React frontends**, *
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<a href="https://github.com/Nandanans9072">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandanans9072&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=c8f542&icon_color=c8f542&text_color=e8e8f0&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanans9072&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=c8f542&text_color=e8e8f0&langs_count=8" />
-</a>
-
-<br/>
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Nandanans9072&theme=dark&hide_border=true&background=0d1117&ring=c8f542&fire=c8f542&currStreakLabel=c8f542&sideLabels=e8e8f0&dates=7a7a94&sideNums=c8f542)](https://github.com/Nandanans9072)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nandanans9072&color=c8f542&style=flat-square&label=Profile+Views)
+![Repos](https://img.shields.io/badge/Public_Repos-26-c8f542?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)
+![Languages](https://img.shields.io/badge/Main_Languages-5-c8f542?style=for-the-badge&logo=code&logoColor=black&labelColor=0d1117)
+![ML Repos](https://img.shields.io/badge/ML%2FAI_Repos-13-c8f542?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=0d1117)
+![Web Repos](https://img.shields.io/badge/Web_Repos-11-c8f542?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117)
 
 </div>
+
+### 🗣️ Language Distribution
+
+```
+JavaScript     ████████████████░░░░░░░░░░░░░   ~35%   Web apps, full-stack
+Python         ██████████████░░░░░░░░░░░░░░░   ~30%   ML, CV, network analysis
+Jupyter        ████████████░░░░░░░░░░░░░░░░░   ~25%   DL experiments, labs
+HTML / CSS     ████░░░░░░░░░░░░░░░░░░░░░░░░░   ~10%   UI, static sites
+```
+
+### 📅 Activity Timeline
+
+```
+2021 ──── GitHub config, first steps
+2023 ──── Linux commands, GitHub Skills repos
+2024 ──── Portfolio, Spotify clone, TODO app, Bus reservation, Background animation
+         [ Frontend era — HTML/CSS/JS projects ]
+2024 ──── 2D to 3D React.js visualization
+Dec 2024 ─ DEEP_LEARNING_ASSIGNMENT (first DL repo)
+2025 ──── MNIST recognition, Decision Trees, Colab basics, Python lab
+         [ ML learning curve begins ]
+Sep 2025 ─ Carspeed classify (Decision Tree applied)
+Nov 2025 ─ Employee Leave Management System (full-stack)
+         [ Full-stack + applied ML ]
+Nov 2025 ─ Water Quality Prediction (Random Forest)
+Sep–Oct 2025 ─ ML lab, pattern recognition
+Oct 2025 ─ Fake Logo Detection (Pattern Recognition)
+May 2026 ─ forgery_detection (Vision Transformer + ELA) ← most advanced
+May 2026 ─ Academic Co-authorship Network Analysis
+May 2026 ─ Viral Content SIR Model
+May 2026 ─ LabHub (React + Vite + Express + MySQL) ← most complex web app
+```
+
+---
+
+## 🧠 ML & AI Enthusiast
+
+> *"I don't just use ML — I understand it from the math up."*
+
+My ML journey on GitHub spans **13 repositories**, progressing from fundamentals to research-level implementations:
+
+### 📈 Learning Progression
+
+```
+Foundation                     Applied ML                    Advanced / Research
+──────────────────             ──────────────────────        ──────────────────────────────
+✅ Google Colab Basics         ✅ Carspeed Classify          ✅ Fake Logo Detection
+✅ Python fundamentals         ✅ Decision Tree (Gini)           (Pattern Recognition)
+✅ ML Lab exercises            ✅ MNIST Digit Recognition     ✅ Water Quality Prediction
+✅ Deep Learning coursework    ✅ Viral SIR Model Sim             (Random Forest)
+                               ✅ Academic Network Analysis   ✅ Image Forgery Detection
+                                                                 (Vision Transformer + ELA)
+```
+
+### 🔬 Techniques & Concepts Used
+
+| Area | What I've built |
+|------|----------------|
+| **Classical ML** | Decision Trees (Gini Index), Random Forest, classification pipelines |
+| **Deep Learning** | CNNs (MNIST), Deep Learning assignments, neural architecture experiments |
+| **Computer Vision** | Vision Transformer (ViT) + Error Level Analysis for forgery detection |
+| **Pattern Recognition** | Feature extraction, logo similarity detection |
+| **Graph / Network Analysis** | Academic co-authorship graphs, SIR epidemic spread models |
+| **Tools** | scikit-learn, Pandas, NumPy, Matplotlib, Google Colab, Jupyter |
+
+### 🌟 Highlight: Image Forgery Detection
+> [`forgery_detection`](https://github.com/Nandanans9072/forgery_detection) — *Vision Transformer + ELA (Error Level Analysis)*
+
+Uses a **Vision Transformer (ViT)** architecture combined with **Error Level Analysis** preprocessing to detect manipulated/forged images — a research-grade approach that goes far beyond standard CNN classifiers.
 
 ---
 
 ## 🔍 What my GitHub shows about me
 
-- **JavaScript + Python + Jupyter** are my three main languages — frontend, scripting, and ML notebooks
-- **Most recently active (May 2026):** LabHub, forgery detection (ViT+ELA), network analysis, SIR model simulation, water quality prediction
-- **Full-stack depth:** LabHub demonstrates React + Vite + Express + MySQL with authentication — not just frontend
-- **ML progression:** Started with Decision Trees and Colab basics → now building Vision Transformer models for forgery detection
+- **JavaScript + Python + Jupyter** are my three core languages — frontend, scripting, and ML notebooks
+- **Most recently active (May 2026):** LabHub, forgery detection (ViT+ELA), network analysis, SIR model, water quality prediction
+- **Full-stack depth:** LabHub = React + Vite + Express + MySQL with authentication — not just frontend
+- **ML progression:** Decision Trees → CNNs → Vision Transformers, all documented on GitHub
 - **4 projects live on GitHub Pages:** Portfolio, Spotify clone, TODO list, landing page
 
 ---
