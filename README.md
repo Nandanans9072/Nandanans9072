@@ -19,10 +19,8 @@ const nandana = {
   name     : "Nandana Suresh V",
   degree   : "M.Tech — Computer Science & Engineering",
   college  : "Government Engineering College, Thrissur",
-  roles    : ["Frontend Developer", "UI/UX Designer", "FOSS Coordinator"],
   learning : ["Deep Learning", "Graph Neural Networks", "Vision Transformers"],
-  repos    : 26,
-  funFact  : "I turn 2D floor plans into 3D experiences 🏠✨"
+  repos    : 26
 };
 ```
 
